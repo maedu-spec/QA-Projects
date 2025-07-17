@@ -1,0 +1,11 @@
+This folder contains hands-on API testing projects using Postman and public/mock APIs. 
+
+Content
+- 📁 project-1-reqres/: Test suite using the reqres public API 
+
+Each project includes:
+- Postman collections (`.json` files)
+- Sample scripts and assertions
+- Screenshots of test results
+
+These projects are part of my QA growth journey toward mastering API testing.
